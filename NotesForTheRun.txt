@@ -1,0 +1,3 @@
+Name and gender u should enter 1 Letter to make it work
+
+gcc Main.c Functions.c PatientList.h
